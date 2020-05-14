@@ -15,11 +15,11 @@ During this project, we try to draw a perspective of a secure DevOps pipeline an
 
 #### Initial steps: 
 At first, we consider to implement the following steps in a basic pipeline: 
-*Take care secrets and credentials in git repositories
-*SAST (Static Application Security Test)
-*DAST (Dynamic Application Security Test)
-*Infrastructure scanning
-*Compliance check 
+* Take care secrets and credentials in git repositories
+* SAST (Static Application Security Test)
+* DAST (Dynamic Application Security Test)
+* Infrastructure scanning
+* Compliance check 
 
 ### Contributions
 Feel free to contribute to this project, any contributors are welcome to make a PR on [the project repo](https://github.com/). 
