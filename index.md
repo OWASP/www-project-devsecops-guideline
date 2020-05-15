@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP DevSecOps Guideline
-tags: example-tag
+tags: DevSecOps
 level: 1
 type: documentation
-pitch: A very brief, one-line description of your project
+pitch: The OWASP DevSecOps Guideline can help us to embeding security as a part of pipeline. 
 
 ---
 
