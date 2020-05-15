@@ -1,8 +1,8 @@
 ---
 title: Contributing
-layout:  col-sidebar
+layout:  null
 tab: true
-order: 1
+order: 2
 tags: DevSecOps
 ---
 
