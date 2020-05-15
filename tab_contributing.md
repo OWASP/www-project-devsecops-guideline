@@ -9,4 +9,4 @@ tags: DevSecOps
 ## Contributing
 
 Contributing on this project is so simple, please go to project's [GitHub repo](https://github.com) and then send a PR. 
-If you have any recomandation or idea please inhasitated to open an issue there. 
+Please do not hesitate to create an issue if you have any idea or recommandation. 
