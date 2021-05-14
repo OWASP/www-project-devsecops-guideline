@@ -28,3 +28,4 @@ Feel free to contribute to this project, any contributors are welcome to make a 
 
 ### Related Project[s]:
 * [OWASP SAMM](https://owasp.org/www-project-samm/)
+* [OWASP Devsecops Maturity Model](https://owasp.org/www-project-devsecops-maturity-model/)
