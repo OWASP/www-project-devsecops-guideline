@@ -19,6 +19,7 @@ During this project, we try to draw a perspective of a secure DevOps pipeline an
 At first, we consider to implement the following steps in a basic pipeline:
 * Take care secrets and credentials in git repositories
 * SAST (Static Application Security Test)
+* SCA (Software Composition Analysis)
 * DAST (Dynamic Application Security Test)
 * Infrastructure scanning
 * Compliance check
