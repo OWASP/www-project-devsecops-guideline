@@ -27,6 +27,9 @@ At first, we consider to implement the following steps in a basic pipeline:
 * Infrastructure scanning
 * Compliance check
 
+## Latest
+You can [read the latest development documents in our official GitHub repository](https://github.com/OWASP/DevSecOpsGuideline/tree/master/document) or view the latest content at [latest](latest/).
+
 ### Contributions
 Feel free to contribute to this project; any contributors are welcome to make a pull request on [the project repo](https://github.com/OWASP/DevSecOpsGuideline). 
 
