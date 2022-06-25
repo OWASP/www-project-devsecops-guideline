@@ -1,12 +1,10 @@
 ---
 
 layout: col-document
-title: OWASP DevSecOps Guideline - v-0.2
+title: OWASP DevSecOps Guideline
 tags: DevSecOps
 
 ---
-
-{% include breadcrumb.html %}
 
 ## Pre-commit
 
@@ -17,16 +15,6 @@ Making sure that there are no secrets in the code, and that the code follows cer
 In the following, we take a look into different types of pre-commit actions that are as follows:
 1. Secrets Management
 2. Linting Code
-
-
-The following image can give you a better view of what the pre-commit means and why we must consider it. 
-
-![Pre Commit](/assets/images/pre-commit.png)
-
-## Tools:
-
-+ [Pre-Commit](https://pre-commit.com/) - A framework for managing and maintaining multi-language pre-commit hooks.
-
 
 ### References
 
