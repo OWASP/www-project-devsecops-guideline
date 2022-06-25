@@ -4,43 +4,43 @@ docs:
 - title: '0 - Intro'
   url: index
 
-- title: '0a - Overview'
+- title: '0-a - Overview'
   url: 00a-Overview
 
-- title: '0b - Threat Modeling'
+- title: '0-b - Threat Modeling'
   url: 00b-Threat-modeling
 
 - title: '1 - Pre-commit'
   url: 01-Pre-commit
 
-- title: '1a - Secrets Management'
+- title: '1-a - Secrets Management'
   url: 01a-Secrets-Management
 
-- title: '1b - Linting Code'
+- title: '1-b - Linting Code'
   url: 01b-Linting-Code
 
 - title: '2 - Vulnerability Scanning'
   url: 02-Vulnerability-Scanning
 
-- title: '2a - Static Application Security Testing'
+- title: '2-a - Static Application Security Testing'
   url: 02a-Static-Application-Security-Testing
 
-- title: '2b - Dynamic Application Security Testing'
+- title: '2-b - Dynamic Application Security Testing'
   url: 02b-Dynamic-Application-Security-Testing
 
-- title: '2c - Interactive Application Security Testing'
+- title: '2-c - Interactive Application Security Testing'
   url: 02c-Interactive-Application-Security-Testing
 
-- title: '2d - Software Composition Analysis'
+- title: '2-d - Software Composition Analysis'
   url: 02d-Software-Composition-Analysis
 
-- title: '2e - Infrastructure Vulnerability Scanning'
+- title: '2-e - Infrastructure Vulnerability Scanning'
   url: 02e-Infrastructure-Vulnerability-Scanning
 
-- title: '2f - Container Vulnerability Scanning'
+- title: '2-f - Container Vulnerability Scanning'
   url: 02f-Container-Vulnerability-Scanning
 
-- title: '2g - Privacy'
+- title: '2-g - Privacy'
   url: 02g-Privacy
 
 - title: '3 - Compliance Auditing'

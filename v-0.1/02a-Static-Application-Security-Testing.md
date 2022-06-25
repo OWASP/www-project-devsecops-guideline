@@ -1,12 +1,10 @@
 ---
 
 layout: col-document
-title: OWASP DevSecOps Guideline - v-0.2
+title: OWASP DevSecOps Guideline
 tags: DevSecOps
 
 ---
-
-{% include breadcrumb.html %}
 
 ### Static scanning is an important part of the proces!
 <img align="right" width="360" height="200" src="/latest/assets/images/Static scanning.png">
@@ -42,7 +40,7 @@ So according to the above lines the possible actions in this step are as follows
   + [Checkmarx SAST](https://checkmarx.com) - A static analysis security vulnerability scanner
   + [Fortify](https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzer)- A static analysis security vulnerability scanner
 
-- #### IaC scanning: 
+- #### IaC scanning:
   + [Checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew
   + [ansible-lint](https://github.com/ansible-community/ansible-lint) - Best practices checker for Ansible
   + [puppet-lint](https://github.com/rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide

@@ -1,12 +1,10 @@
 ---
 
 layout: col-document
-title: OWASP DevSecOps Guideline - v-0.2
+title: OWASP DevSecOps Guideline
 tags: DevSecOps
 
 ---
-
-{% include breadcrumb.html %}
 
 ## Take care secrets and credentials in repositories
 
@@ -21,7 +19,7 @@ following the process shown in the picture.
 <br/>
 
 The ideal approach is detecting and preventing the exposure of sensitive data before that they hit the repository,
-because they are then visible in the history. In case of code hosting platforms, secrets can still linger 
+because they are then visible in the history. In case of code hosting platforms, secrets can still linger
 on the web and be searchable after you remove them from the repository.
 
 A complimentary approach is scanning the repo for sensitive information, and then remove them;
@@ -39,13 +37,13 @@ note that when a credential is leaked, it is already compromised and should be i
 + The code history does not contain inadvertent secrets.
 
 ### Where and when to Detect Secrets?
-![Pre Commit](/latest/assets/images/pre-commit.png)
+<img align="center" src="/latest/assets/images/Dev-process.png">  
 
 Well, the best location is the **pre-commit** location, This ensure that before a secret actually enters your code base, it is intercepted, and the developer or to committer gets a message. Another location is the build server or the **build** process. The build server retrieves source code, which is already committed and then it can analyze the source code where it contains new secrets or when it contains known secrets that the secrets are actually validated or audited.
 
 ---
 Here are some helpful tools to automatically scan repositories for sensitive information.
-Scans can be implemented directly in our pipeline, and be repeatable and efficient. 
+Scans can be implemented directly in our pipeline, and be repeatable and efficient.
 
 ## Tools:
 
