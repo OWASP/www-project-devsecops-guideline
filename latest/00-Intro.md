@@ -18,4 +18,4 @@ Maybe the following picture can describe the goal of securing pipelines better. 
 We just put some open-source and commercial tools as an example in this image. As always, you are free to select tools and the exact location where you want to implement the tools. 
 Besides implementing more security steps, Having a central vulnerabilities management solution can help to have a good view of the application security outlook in one picture.   
 
-![Secure Pipeline](/assets/images/Pipeline-view.png)
+![Secure Pipeline](/latest/assets/images/Pipeline-view.png)
