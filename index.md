@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP DevSecOps Guideline
 tags: DevSecOps
-level: 1
+level: 2
 type: documentation
 pitch: The OWASP DevSecOps Guideline can help us to embeding security as a part of pipeline.
 
