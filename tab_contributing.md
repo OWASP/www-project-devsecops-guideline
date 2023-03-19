@@ -2,7 +2,7 @@
 title: Contributing
 layout:  null
 tab: true
-order: 3
+order: 2
 tags: DevSecOps
 ---
 
