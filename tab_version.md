@@ -1,5 +1,5 @@
 ---
-title: Document Versions
+title: Versions
 layout:  null
 tab: true
 order: 2
