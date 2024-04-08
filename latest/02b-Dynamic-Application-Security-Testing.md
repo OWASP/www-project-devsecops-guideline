@@ -27,6 +27,7 @@ DAST tools allow for sophisticated scans on the client side and server side with
 
 - #### Commercial:
   + [Acunetix](https://www.acunetix.com) - An automatic web security testing scanner that accurately scans and audits all web applications, including HTML5, JavaScript and Single Page applications (SPAs)
+  + [Akto](https://akto.io/) -  Dynamic Application security testing and API scanning with the largest test library covering all OWASP Top 10
   + [Netsparker](https://www.netsparker.com) - It can identify vulnerabilities in all types of modern web applications, regardless of the underlying architecture or platform
   + [InsightAppSec (AppSpider)](https://www.rapid7.com/products/insightappsec) - Application security testing for the modern web
   + [Veracode Dynamic Analysis](https://www.veracode.com/products/dynamic-analysis-dast) - Veracode Dynamic Analysis helps companies scan their web applications for exploitable vulnerabilities at scale
