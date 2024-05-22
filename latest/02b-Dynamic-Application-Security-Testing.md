@@ -23,7 +23,7 @@ DAST tools allow for sophisticated scans on the client side and server side with
 ---
 ### Tools
 - #### Open-source:
-  + [ZED Attack Proxy](https://www.zaproxy.org) - It is an open source tool which is offered by OWASP for performing security testing
+  + [Zed Attack Proxy (ZAP)](https://www.zaproxy.org) - It is an open source tool for performing security testing
 
 - #### Commercial:
   + [Acunetix](https://www.acunetix.com) - An automatic web security testing scanner that accurately scans and audits all web applications, including HTML5, JavaScript and Single Page applications (SPAs)
