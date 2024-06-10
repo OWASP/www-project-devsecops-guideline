@@ -47,7 +47,7 @@ Examples of such vulnerabilities could be hardcoding API keys in cleartext, not 
 
 + [Veracode - IAST](https://www.veracode.com/security/interactive-application-security-testing-iast)
 + [OWASP - Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
-+ [Hdivsecurity - IAST](https://hdivsecurity.com/bornsecure/what-is-iast-interactive-application-security-testing/)
++ [Datadog - IAST](https://docs.datadoghq.com/security/application_security/code_security/)
 + [Contrastsecurity - IAST](https://www.contrastsecurity.com/knowledge-hub/glossary/interactive-application-security-testing)
 + [Synk - IAST](https://snyk.io/learn/iast-interactive-application-security-testing/)
 + [Acunetix - IAST](https://www.acunetix.com/blog/web-security-zone/what-is-iast-interactive-application-security-testing/)
