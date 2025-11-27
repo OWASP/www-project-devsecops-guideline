@@ -1,0 +1,32 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: devsecops-guideline
+    platform: slack
+    url: https://owasp.slack.com/archives/C01LJ0QJ3L4
+    description: "This is a communication channel for the OWASP DevSecOps guideline project.\n<https://owasp.org/www-project-devsecops-guideline/>\n<https://github.com/OWASP/DevSecOpsGuideline>"
+leaders:
+  - name: Ali Yazdani
+    email: ali.yazdani@owasp.org
+    github: Ali-Yazdani
+  - name: Milan Singh Thakur
+    email: milan@owasp.org
+    github: milanowasp
+level: 2
+name: OWASP DevSecOps Guideline
+pitch: The OWASP DevSecOps Guideline can help us to embeding security as a part of pipeline.
+repositories:
+  - name: www-project-devsecops-guideline
+    url: https://github.com/OWASP/www-project-devsecops-guideline
+    description: The OWASP DevSecOps Guideline explains how we can implement a secure pipeline and use best practices and introduce tools that we can use
+      in this matter. Also, the project is trying to help us promote the shift-left security culture in our development process.
+  - name: DevSecOpsGuideline
+    url: https://github.com/OWASP/DevSecOpsGuideline
+    description: The OWASP DevSecOps Guideline can help us to embedding security as a part of the development pipeline.
+tags:
+  - DevSecOps
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-devsecops-guideline
