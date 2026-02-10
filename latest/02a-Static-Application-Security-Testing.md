@@ -42,6 +42,7 @@ So according to the above lines the possible actions in this step are as follows
   + [Semgrep](https://semgrep.dev) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
   + [Checkmarx SAST](https://checkmarx.com) - A static analysis security vulnerability scanner
   + [Fortify](https://www.microfocus.com/en-us/cyberres/application-security/static-code-analyzer)- A static analysis security vulnerability scanner
+  + [Xygeni SAST](https://xygeni.io/xygeni-code-security/) - Advanced SAST platform with real-time malware detection and AI-powered AutoFix for secure, private remediation.
 
 - #### IaC scanning: 
   + [Checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew
@@ -50,3 +51,4 @@ So according to the above lines the possible actions in this step are as follows
   + [tfsec](https://github.com/tfsec/tfsec) - Security scanner for your Terraform code
   + [terrascan](https://github.com/accurics/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure
   + [tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
+  + [Xygeni IaC](https://xygeni.io/infrastructure-as-code-security/) - Infrastructure as Code security that detects cloud misconfigurations with predefined policies and implements guardrails to block risks before production.
