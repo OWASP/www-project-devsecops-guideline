@@ -30,6 +30,7 @@ We should put the Component Analysis earlier, before security testing like SAST,
   + [Snyk](https://snyk.io/) - SCA tool offer as a SaaS solution. 
   + [WhiteSource](https://www.whitesourcesoftware.com/) - WhiteSource identifies every open source component in your software, including dependencies. It then secures you from vulnerabilities and enforces license policies throughout the software development lifecycle.
   + [Synopsys BlackDuck](https://www.blackducksoftware.com/) - Black Duck automated policy management allows you to define policies for open source use, security risk, and license compliance up front, and automate enforcement across the software development life cycle (SDLC).
+  + [Xygeni SCA](https://xygeni.io/software-composition-analysis/) - Provides real-time open-source security with malware detection, reachability analysis, and automated remediation. It also manages license compliance and exports SBOMs in CycloneDX and SPDX formats.
 
 
 ### References
